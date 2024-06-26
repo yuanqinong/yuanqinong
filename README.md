@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuan Qin</h1>
-<h3 align="center">An passionate AI software engineer from Malaysia open for new job opportunities!</h3>
+<h3 align="center">An passionate AI software engineer from Malaysia!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuanqinong&label=Profile%20views&color=0e75b6&style=flat" alt="yuanqinong" /> </p>
 
